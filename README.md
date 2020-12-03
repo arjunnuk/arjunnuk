@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on course
+- 🔭 I’m currently working on my course
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Developers
