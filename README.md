@@ -3,8 +3,8 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working in ANZ as Data Analyst/Data Engineer
+- 🌱 I’m currently focused more on DataScience
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about:...skills
 - 📫 How to reach me: ...[instagram](https://www.instagram.com/arjunnuk/)
